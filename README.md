@@ -13,8 +13,8 @@
 | NIM        | Name                                | Tasks                                  |
 | --------   | ---------------------------         |-----------------------------------------|
 | 1301225492 | Romario Viegas Francisco Marcal     | Token Rexognizer and Parser Program and Demo Source code implementation|
-| 1301224446 | Laode Muhammad Fathir               | Design context free grammar for valid sentence structure|
-| 1301224209 | Muhammad Akmal Mutoha               | Finite Automata design for each group|
+| 1301224446 | Laode Muhammad Fathir               | Moderator, Design context free grammar for valid sentence structure|
+| 1301224209 | Muhammad Akmal Mutoha               | Finite Automata design for each group and dfa to pda Integration code|
 
 ## About this project
 - Make a program that recognize the input strings that are recognize in different group of words like S (Subject), P (Prdicate), O (Object) and the K (Complement).
